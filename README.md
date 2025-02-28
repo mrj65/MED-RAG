@@ -33,3 +33,21 @@ The system has a feature that shows a visual representation of the query and the
 
 The user interface, created with the Gradio library, offers an easy-to-use platform where users can type in their medical questions. It allows users to submit their queries and see the answers, including supporting information, context, and visualizations of the embeddings in a simple and clear way.
 
+@article{jin2023medcpt,
+  title={MedCPT: Contrastive Pre-trained Transformers with large-scale PubMed search logs for zero-shot biomedical information retrieval},
+  author={Jin, Qiao and Kim, Won and Chen, Qingyu and Comeau, Donald C and Yeganova, Lana and Wilbur, W John and Lu, Zhiyong},
+  journal={Bioinformatics},
+  volume={39},
+  number={11},
+  pages={btad651},
+  year={2023},
+  publisher={Oxford University Press}
+}
+
+@misc{allal2024SmolLM,
+      title={SmolLM - blazingly fast and remarkably powerful}, 
+      author={Loubna Ben Allal and Anton Lozhkov and Elie Bakouch and Leandro von Werra and Thomas Wolf},
+      year={2024},
+}
+
+
