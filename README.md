@@ -3,6 +3,10 @@ The project focuses on creating a specialized RAG workflow designed for healthca
 You can test it out on the hosted huggingface space : https://huggingface.co/spaces/Michaelj1/MedQA-BI.
 Keep in mind as its a free hosting service the inference may take upwards to 5min.
 
+Or by running it inside a Docker conatiner locally 
+```python
+docker run -it -p 7860:7860 --gpus all --platform=linux/amd64 registry.hf.space/michaelj1-medqa-bi:latest python app.py
+```
 # User Interface 
 ![image](https://github.com/user-attachments/assets/9ac5e5be-3694-4e58-818d-a1a9205b91cf)
 
