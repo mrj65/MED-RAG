@@ -1,7 +1,6 @@
 # MED-RAG
 The project focuses on creating a specialized RAG workflow designed for healthcare, specifically to find relative publications based on the query and providing response based on the extracted literature content. 
-You can test it out on the hosted huggingface space : https://huggingface.co/spaces/Michaelj1/MedQA-BI.
-Keep in mind as its a free hosting service the inference may take upwards to 5min.
+You can test it out on the free hosted huggingface space : https://huggingface.co/spaces/Michaelj1/MedQA-BI.
 
 Or by running it inside a Docker conatiner locally 
 ```python
